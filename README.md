@@ -9,7 +9,7 @@ I have also found that my family is always busy, and the days they are free are 
 
 In this assignment, I will conduct a heuristic evaluation of two mobile apps with goals similar to the ones of this project. The first, Cozi allows users to create a family planner, and allows family members to log in with their email and shared password and start working on scheduling. The second, Maple allows you to plan and organize tasks within your family, without the use of share password. It allows you to as well create new plans based on inspirations they have created for users.
 
-The valuation will discuss each app's consistency to the [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/) and provide [Severity Ratings for Usability Problems](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/) with consideration for the target users, family members. 
+The valuation will discuss each app's consistency to the [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/) and provide ratings with consideration for the target users, family members. 
 
 ## App 1: Cozi
 ![Cozi-Screenshot](https://user-images.githubusercontent.com/114783914/231081960-aaf12707-0cd4-4534-8279-28c5db0b2a59.PNG)
@@ -25,6 +25,18 @@ Overall: The creators are monetizing the app. The app is not as accessible as it
 ## Apple 2: Maple
 ![Maple-Screenshot](https://user-images.githubusercontent.com/114783914/231094330-6fe94eee-176b-4d43-ab93-79c89b91b3e2.PNG)
 Full app here: [Maple](https://www.growmaple.com/)
+
+
+#### Background Information
+Maple is an app created to allow a family member such to organize and plan events for family. They are given the freedom to create different planners on their own or can use a default from inspirations sub tab, in All to-dos tab. This website also features connecting your Goole calendar so you sync its events into Google maps. 
+#### Heuristic Evaluation 
+blah. link 
+
+## Credit
+Websites that inspired me! 
+
+10 Usability Heuristics for User Interface Design (https://www.nngroup.com/articles/ten-usability-heuristics/)
+10 Usability Heuristics - explained with examples (https://youtu.be/sIP71g8ueK0)
 
 
 
