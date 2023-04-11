@@ -24,7 +24,7 @@ Overall: The creators are monetizing the app. The app is not as accessible as it
 
 
 ## Apple 2: Maple
-![Maple-Screenshot](https://user-images.githubusercontent.com/114783914/231094330-6fe94eee-176b-4d43-ab93-79c89b91b3e2.PNG)
+![Maple-Screenshot]
 Full app here: [Maple](https://www.growmaple.com/)
 
 
@@ -33,7 +33,8 @@ Maple is an app created to allow a family member such to organize and plan event
 #### Heuristic Evaluation 
 blah. link 
 
-![Heuristic Evaluation](https://user-images.githubusercontent.com/114783914/231194511-3bbecf47-b2ed-43af-bc98-e6f485acb714.png)
+![Heuristic Evaluation](https://user-images.githubusercontent.com/114783914/231195130-336387b6-c284-450a-b998-479aae52b72c.png)
+
 
 
 ## Credit
