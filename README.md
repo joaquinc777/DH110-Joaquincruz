@@ -18,7 +18,7 @@ Full app here: [Cozi](https://www.cozi.com/getting-started-with-cozi-calendar/)
 #### Background Information
 Cozi is an app created and available through all platforms. It allows users to coordinate and communicate everyone's schedules and activities, manage to-do lists, plan on dinner, and keep the whole family on the same page.
 #### Heuristic Evaluation 
-Overall: The creators are monetizing the app. The app is not as accessible as it should be. Users should be allowed to access features such as monthly planners, summer planners, various food recipes, and more. There are many issues, from organization to overload of information.
+Overall: The creators are monetizing the app. The app is not as accessible as it should be. Users should be allowed to access features such as monthly planners, summer planners, various food recipes, and more. There are many issues, from organization to overload of information. If a user plans to use this app as long term it'll be more difficult due to the lack of freedom since you have to pay to have access to all features. 
 
 ![Heuristic Evaluaton](https://user-images.githubusercontent.com/114783914/231091354-291f4681-4bab-4485-bcd2-48210200e14f.png)
 
