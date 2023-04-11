@@ -1,5 +1,5 @@
 # Assignment 01: Heuristic Evaluation- Joaquin Cruz, DH110 
-## Tentative Title: FamilyPlan
+## Title: FamilyPlan
 
 ### About the project
 
@@ -28,7 +28,7 @@ Full app here: [Maple](https://www.growmaple.com/)
 
 
 #### Background Information
-Maple is an app created to allow a family member such to organize and plan events for family. They are given the freedom to create different planners on their own or can use a default from inspirations sub tab, in All to-dos tab. This website also features connecting your Goole calendar so you sync its events into Google maps. 
+Maple is an app created to allow a family member such to organize and plan events for family. Users can create customized planners or choose from pre-designed templates in the "inspiration" sub tab. Additionally, it offers integration with Google Calendar, which allows users to synce their events and activities.
 #### Heuristic Evaluation 
 blah. link 
 
