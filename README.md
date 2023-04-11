@@ -33,8 +33,11 @@ Maple is an app created to allow a family member such to organize and plan event
 #### Heuristic Evaluation 
 blah. link 
 
+![Heuristic Evaluation](https://user-images.githubusercontent.com/114783914/231194511-3bbecf47-b2ed-43af-bc98-e6f485acb714.png)
+
+
 ## Credit
-Websites that inspired me! 
+Tools that inspired me! 
 
 10 Usability Heuristics for User Interface Design (https://www.nngroup.com/articles/ten-usability-heuristics/)
 
