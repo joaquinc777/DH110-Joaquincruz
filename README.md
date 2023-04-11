@@ -13,6 +13,7 @@ The valuation will discuss each app's consistency to the [10 Usability Heuristic
 
 ## App 1: Cozi
 ![Cozi-Screenshot](https://user-images.githubusercontent.com/114783914/231081960-aaf12707-0cd4-4534-8279-28c5db0b2a59.PNG)
+Full app here: [Cozi](https://www.cozi.com/getting-started-with-cozi-calendar/)
 
 
 
