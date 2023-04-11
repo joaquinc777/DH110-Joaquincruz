@@ -22,6 +22,9 @@ Overall: The creators are monetizing the app. The app is not as accessible as it
 
 ![Heuristic Evaluaton](https://user-images.githubusercontent.com/114783914/231091354-291f4681-4bab-4485-bcd2-48210200e14f.png)
 
+## Apple 2: Maple
+![Maple-Screenshot](https://user-images.githubusercontent.com/114783914/231094330-6fe94eee-176b-4d43-ab93-79c89b91b3e2.PNG)
+Full app here: [Maple](https://www.growmaple.com/)
 
 
 
