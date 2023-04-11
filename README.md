@@ -36,6 +36,7 @@ blah. link
 Websites that inspired me! 
 
 10 Usability Heuristics for User Interface Design (https://www.nngroup.com/articles/ten-usability-heuristics/)
+
 10 Usability Heuristics - explained with examples (https://youtu.be/sIP71g8ueK0)
 
 
