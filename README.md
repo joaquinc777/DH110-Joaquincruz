@@ -20,6 +20,8 @@ Cozi is an app created and available through all platforms. It allows users to c
 #### Heuristic Evaluation 
 Overall: The creators are monetizing the app. The app is not as accessible as it should be. Users should be allowed to access features such as monthly planners, summer planners, various food recipes, and more. There are many issues, from organization to overload of information.
 
+![Heuristic Evaluaton](https://user-images.githubusercontent.com/114783914/231090849-0de6706c-8b46-43b7-b49b-d9803b945d6f.png)
+
 
 
 
