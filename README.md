@@ -24,14 +24,15 @@ Overall: The creators are monetizing the app. The app is not as accessible as it
 
 
 ## Apple 2: Maple
-![Maple-Screenshot]
+![Maple-Screenshot](https://user-images.githubusercontent.com/114783914/231197093-1be3bee0-d3f2-4c3c-a7c5-f3123135bfd7.PNG)
+
 Full app here: [Maple](https://www.growmaple.com/)
 
 
 #### Background Information
 Maple is an app created to allow a family member such to organize and plan events for family. Users can create customized planners or choose from pre-designed templates in the "inspiration" sub tab. Additionally, it offers integration with Google Calendar, which allows users to synce their events and activities.
 #### Heuristic Evaluation 
-blah. link 
+Overall: The app is tailored to be not connecting to family. When planning events, family members should be free to have a shared password account and create their plans. Furthermore, the calendar should give users the freedom to create alerts. There is a ten-minute alert before the event. This could cause users to go to a different calender or use clocks to set the alarm. 
 
 ![Heuristic Evaluation](https://user-images.githubusercontent.com/114783914/231195130-336387b6-c284-450a-b998-479aae52b72c.png)
 
