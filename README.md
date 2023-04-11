@@ -11,7 +11,7 @@ In this assignment, I will conduct a heuristic evaluation of two mobile apps wit
 
 The valuation will discuss each app's consistency to the [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/) and provide [Severity Ratings for Usability Problems](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/) with consideration for the target users, family members. 
 
-## App A: Cozi
+## App 1: Cozi
 ![Cozi-Screenshot](https://user-images.githubusercontent.com/114783914/231081960-aaf12707-0cd4-4534-8279-28c5db0b2a59.PNG)
 
 
