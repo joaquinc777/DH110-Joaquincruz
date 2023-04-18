@@ -10,5 +10,5 @@ In today's world, it is rather tricky for family members to spend quality time w
 
 ## Rationale behind UT with list of Usability issues
 
-While the app allows users to navigate throughout different tabs, the pages can be rather misleading and 
+While the app allows users to navigate different tabs, the pages can be misleading and include too much text. The app doesn't allow users to access multiple notifications, monthly calendars, etc. Furthermore, you must purchase a monthly subscription to eliminate ads, access numerous alarms, and have more features. Also, the app itself could be more straightforward in that whenever you click on a new tab, you don't know what to expect. For example, if you wish to add a personal recipe that the app recommends to your grocery list, it will confuse the user if they aren't navigated through how to complete this task. Furthermore, this app needs more freedom, not the best User Interface, and ambiguous buttons and features integrated into its system. 
 
