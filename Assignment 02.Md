@@ -20,3 +20,11 @@ It is crucial to understand the user's frustrations and the root of this frustra
 ## How I want to test?
 
 Overall, I want users to complete different tasks they would normally do, but in the sense that all family members may view these tasks. I wish to test how the various tabs and buttons on the app can be complicated to navigate; if provided help, the user will feel satisfied because of the ambiguity. I want to test that the user understands that the interface also needs vast improvement to bring the user's attention. Furthermore, I wan to figure out what features could work and how I could use user feedback to develop further my hypothesis and solution to improve the app's interface and give users the freedom and effectiveness of using an app with these improvements. 
+
+
+## Usability Testing Method
+
+The pilot usability testing took the course over Zoom. My participant used their laptop to show their face and see their facial expressions, while they used their iPhone to demonstrate their navigation throughout the app. I set up the usability testing on Goggle forms with an introduction, informed consent, background questions, pre-testing questions, three tasks, a post-test questionnaire, a system usability scale, a production satisfaction card, and personal questions. The majority of the questions were determining how difficult easy it was to use the app as well as if they could complete the tasks and the level of easiness to difficulty. You can view the form below, as well as the video recording. 
+
+### Google Form 
+![UT-Cozi](https://docs.google.com/forms/d/1uYGa02kULcUcCEZ6tSh0jh4w7zc3tBDpasfYfkufpK4/edit)
