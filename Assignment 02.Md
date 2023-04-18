@@ -28,3 +28,12 @@ The pilot usability testing took the course over Zoom. My participant used their
 
 ### Google Form 
 https://docs.google.com/forms/d/1uYGa02kULcUcCEZ6tSh0jh4w7zc3tBDpasfYfkufpK4/edit
+
+
+### Video Link(Youtube) User Testing 
+https://youtu.be/81jb-ZN3m_k
+
+## My Reflection
+
+After setting up my Google form, I felt nervous about conducting the User Testing. I had to practice a couple of times, so I had three different responses on my Google form. Since I haven't been a moderator before in an actual study or test, a person conducting a study should be confident and prepared to communicate well the purpose of the trials and the instructions of what the user should do. Describing the Introduction was very monotone, and I definitely would improve that in the future so that the user is engaged and feels ready to complete the task. The biggest takeaway is to ask users follow-up questions about their feelings or thoughts about performing the task. I want to gain the most feedback because it is about the user, what is affecting their ability to complete specific tasks, and what can be improved. I should have been more indirect, I helped with one particular task because the user could not complete one of the parts, so I guided her. Additionally, I learned the impact an interviewer has on the participant. Depending on the way I word my tasks or questions could throw users off. The main thing I would improve is being more transparent in my instructions, asking the user more questions, writing down their feelings, and finding connections when I interview more users. Finally, I would like to ask users more about how they would improve the interface themselves if they were the ones working on the app. 
+
