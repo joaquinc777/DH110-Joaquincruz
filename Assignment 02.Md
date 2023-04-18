@@ -27,4 +27,4 @@ Overall, I want users to complete different tasks they would normally do, but in
 The pilot usability testing took the course over Zoom. My participant used their laptop to show their face and see their facial expressions, while they used their iPhone to demonstrate their navigation throughout the app. I set up the usability testing on Goggle forms with an introduction, informed consent, background questions, pre-testing questions, three tasks, a post-test questionnaire, a system usability scale, a production satisfaction card, and personal questions. The majority of the questions were determining how difficult easy it was to use the app as well as if they could complete the tasks and the level of easiness to difficulty. You can view the form below, as well as the video recording. 
 
 ### Google Form 
-![UT-Cozi](https://docs.google.com/forms/d/1uYGa02kULcUcCEZ6tSh0jh4w7zc3tBDpasfYfkufpK4/edit)
+https://docs.google.com/forms/d/1uYGa02kULcUcCEZ6tSh0jh4w7zc3tBDpasfYfkufpK4/edit
